@@ -1,8 +1,8 @@
 ---
 title: "How to Optimize Images with Our Online Image Compressor"
 date: //
-description: "Discover how our image compressor can help you optimize your images for all digital needs."
-keywords: ['photo size reducer', 'image resolution reduce', 'reduce image file size', 'jpg photo compressor', 'compressing a jpg', 'image file reduce size', 'image size reducer', 'image resolution reducer', 'compress image size', 'compress photo size', 'online image compressor', 'compress picture online', 'compress image online', 'compress pic online']
+description: "Discover how our image compressor can help you optimize your images for all digital needs"
+keywords: ['photo size reducer', 'image resolution reducer', 'reduce image file size', 'jpg photo compressor', 'compressing a jpg', 'image size reducer' 'compress image size', 'compress photo size', 'online image compressor', 'compress picture online', 'compress image online', 'compress pic online']
 ---
 
 <!-- ## Optimize Your Images With Our Multifunctional Image Compressor -->
@@ -44,5 +44,4 @@ Below is a step-by-step pictorial guide on how to use our online image compresso
 - Download your compressed images 👍🏾
 
 ![](../media/compress_blur_6.png)
-
 
