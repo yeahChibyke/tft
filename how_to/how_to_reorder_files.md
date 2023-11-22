@@ -1,7 +1,7 @@
 ---
 title: "How To Reorder PDF Files"
 date: //
-description: ""
+description: "Learn how to easily rearrange your PDF pages online using our free and user-friendly tool"
 keywords: ['rearrange pdf pages free online', 'reorder pdf pages free online', 'organize pdf pages freeonline', 'online pdf editor reorder pages', 'online pdf editor rearrange pages']
 ---
 
