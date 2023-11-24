@@ -23,3 +23,21 @@ Our online image to PDF converter is easy-to-use, supports diverse image formats
 
 Below is a step-by-step pictorial guide on how to use our online image to PDF converter:
 
+- Go to [theFileTools](https://www.thefiletools.com/)
+
+![](../media/img.png)
+
+- Click on the `Convert` button and select `Images to PDF` from the dropdown menu
+
+![](../media/img_2_pdf_1.png)
+
+- Click on the `Select Files` button in the new page that comes up
+
+![](../media/img_2_pdf_2.png)
+
+- Select the image(s) you wis to convert to PDF files ...*I have selected a couple of images*
+
+
+
+
+
