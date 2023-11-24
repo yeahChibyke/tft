@@ -13,10 +13,10 @@ Online image compressors are commonly used to reduce the resolution of images wi
 
 ## Reasons To Use Our Online Image Compressor
 
-**Are you a  professional photographer needing to share a large number of high-resolution images on your website?**  
+- **Are you a  professional photographer needing to share a large number of high-resolution images on your website?**  
 Our online image compressor can be used to reduce the size of these images without much loss in quality, making it much easier to upload them to your website and ensuring that your website loads quickly for your visitors.
 
-**Or, are you a web developer working on a project that requires the use of a large number of images?**  
+- **Or, are you a web developer working on a project that requires the use of a large number of images?**  
 You can also use our online image compressor to reduce the size of these images without compromising their quality. This not only saves storage space but also improves the performance of the website.  
 
 ***
@@ -29,25 +29,25 @@ Below is a step-by-step pictorial guide on how to use our online image compresso
 
 - Click on the `Image` button and select `Compress` from the dropdown menu
 
-![](../media/compress_blur_1.png)
+![](../media/compress_1.png)
 
 - Click on the `Select Files` button in the new page that comes up
 
-![](../media/compress_blur_2.png)
+![](../media/compress_2.png)
 
-- Select the image you wish to compress ...*I have selected this image which is 3.5MB in size*
+- Select the image you wish to compress ...*I have selected this image which is nearly 4mb in size*
 
-![](../media/compress_blur_3.png)
+![](../media/compress_3.png)
 
-- You can go ahead to download the already compressed image
+- You can download the already compressed image,
 
-![](../media/compress_blur_4.png)
+![](../media/compress_4.png)
 
-- Or you can add more images to be compressed
+- or you can add more images to be compressed
 
-![](../media/compress_blur_5.png)
+![](../media/compress_5.png)
 
 - Download your compressed images 👍🏾
 
-![](../media/compress_blur_6.png)
+![](../media/compress_6.png)
 
