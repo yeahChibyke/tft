@@ -24,3 +24,32 @@ You have access to a free, user-friendly, and instant online tool that effortles
 ***
 
 Below is a step-by-step guide on how to use our image background remover:
+
+- Visit [theFileTools](https://www.thefiletools.com/)
+
+    ![](../media/home.png)
+
+- Click on the `Image` button and select `Remove Background` from the dropdown menu
+
+    ![](../media/rem_bg_1.png)
+
+- Click on the `Select Files` button on the new page that come sup
+
+    ![](../media/rem_bg_2.png)
+
+- Select the image you wish to remove the background of
+
+    ![](../media/rem_bg_3.png)
+
+- Here's the original version of the uploaded picture
+
+    ![](../media/rem_bg_4.png)
+
+- Here's the edited version   
+
+    ![](../media/rem_bg_5.png)
+
+- Download your edited image
+
+    ![](../media/rem_bg_6.png)
+
