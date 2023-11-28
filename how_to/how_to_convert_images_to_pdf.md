@@ -25,19 +25,34 @@ Below is a step-by-step pictorial guide on how to use our online image to PDF co
 
 - Go to [theFileTools](https://www.thefiletools.com/)
 
-![](../media/img.png)
+![](../media/home.png)
 
 - Click on the `Convert` button and select `Images to PDF` from the dropdown menu
 
-![](../media/img_2_pdf_1.png)
+![](../media/img2pdf_1.png)
 
 - Click on the `Select Files` button in the new page that comes up
 
-![](../media/img_2_pdf_2.png)
+![](../media/img2pdf_2.png)
 
-- Select the image(s) you wis to convert to PDF files ...*I have selected a couple of images*
+- Select the image(s) you wish to convert to PDF files ...*I have selected a couple of images*
 
+![](../media/img2pdf_3.png)
 
+- You can drag and drop images to specify the order they appear in the PDF file
 
+![](../media/img2pdf_4.png)
 
+- You can also add more images to be converted to a PDF document
 
+![](../media/img2pdf_5.png)
+
+![](../media/img2pdf_6.png)
+
+- Click the `Convert To PDF` button to convert the uploaded images to a single PDF file
+
+![](../media/img2pdf_7.png)
+
+- Download your PDF file
+
+![](../media/img2pdf_8.png)
