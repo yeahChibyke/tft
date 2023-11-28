@@ -25,37 +25,30 @@ Below is a step-by-step pictorial guide on how to use our online image converter
 
 - Go to [theFileTools](https://www.thefiletools.com/)
 
-![](../media/img.png)
+    ![](../media/home.png)
 
 - Click on the `Image` button and select `Convert` from the dropdown menu
 
-![](../media/convert_blur_1.png)
+    ![](../media/convert_img_1.png)
 
 - Click on the `Select Files` button in the new page that comes up
 
-![](../media/convert_blur_2.png)
+    ![](../media/convert_img_2.png)
 
-- Select the image you wish to convert *...I have selected this .jpg image of a mountain landscape*
+- Select the image(s) you wish to convert *...I have selected a couple of images which I will be converting to different digital formats*
 
-![](../media/convert_blur_3.png)
+    ![](../media/convert_img_3.png)
 
-- Select the format you wish to convert to
+- Select the format you wish to convert to and click the `Convert ` button
+    
+    I will convert
 
-![](../media/convert_blur_4.png)
+    - `butterfly.png` to ico
+    - `fish.png` to jpeg
+    - `landscape.webp` to jpeg
+    - `snow_mountain.jpg` to webp
 
-- Click the `Convert` button
+    ![](../media/convert_img_4.png)
 
-![](../media/convert_blur_5.png)
-
-- You can go ahead to download the already converted image
-
-![](../media/convert_blur_6.png)
-
-- Or you can add more images to be converted
-
-![](../media/convert_blur_7.png)
-
-- Download your converted images 👍🏾
-
-![](../media/convert_blur_8.png)
+- Download your converted images 
 
