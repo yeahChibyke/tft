@@ -25,7 +25,7 @@ Below is a step-by-step pictorial guide on how to use our online image compresso
 
 - Go to [theFileTools](https://www.thefiletools.com/)
 
-![](../media/img.png)
+![](../media/home.png)
 
 - Click on the `Image` button and select `Compress` from the dropdown menu
 
@@ -35,7 +35,7 @@ Below is a step-by-step pictorial guide on how to use our online image compresso
 
 ![](../media/compress_2.png)
 
-- Select the image you wish to compress ...*I have selected this image which is nearly 4mb in size*
+- Select the image you wish to compress ...*I have selected this image which is nearly 3mb in size*
 
 ![](../media/compress_3.png)
 
@@ -47,7 +47,7 @@ Below is a step-by-step pictorial guide on how to use our online image compresso
 
 ![](../media/compress_5.png)
 
-- Download your compressed images 👍🏾
+- Download your compressed images 
 
 ![](../media/compress_6.png)
 
