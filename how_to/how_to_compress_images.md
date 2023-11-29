@@ -35,7 +35,7 @@ Below is a step-by-step pictorial guide on how to use our online image compresso
 
     ![](../media/compress_2.png)
 
-- Select the image you wish to compress ...*I have selected this image which is nearly 3mb in size*
+- Select the image you wish to compress
 
     ![](../media/compress_3.png)
 
@@ -44,6 +44,8 @@ Below is a step-by-step pictorial guide on how to use our online image compresso
     ![](../media/compress_4.png)
 
 - or you can add more images to be compressed
+
+    ![](../media/compress_7.png)
 
     ![](../media/compress_5.png)
 

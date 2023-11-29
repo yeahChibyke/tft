@@ -25,7 +25,7 @@ You have access to a free, user-friendly, and instant online tool that effortles
 
 Below is a step-by-step guide on how to use our image background remover:
 
-- Visit [theFileTools](https://www.thefiletools.com/)
+- Visit [theFileTools](https://www.thefiletools.com/) 
 
     ![](../media/home.png)
 

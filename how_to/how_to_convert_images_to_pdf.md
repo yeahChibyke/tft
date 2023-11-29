@@ -23,7 +23,7 @@ Our online image to PDF converter is easy-to-use, supports diverse image formats
 
 Below is a step-by-step pictorial guide on how to use our online image to PDF converter:
 
-- Go to [theFileTools](https://www.thefiletools.com/)
+- Visit [theFileTools](https://www.thefiletools.com/) 
 
     ![](../media/home.png)
 
