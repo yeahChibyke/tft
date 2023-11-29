@@ -23,7 +23,7 @@ Our online image converter is designed to be user-friendly, accessible from any 
 
 Below is a step-by-step pictorial guide on how to use our online image converter:
 
-- Go to [theFileTools](https://www.thefiletools.com/)
+- Visit [theFileTools](https://www.thefiletools.com/)
 
     ![](../media/home.png)
 
@@ -39,16 +39,22 @@ Below is a step-by-step pictorial guide on how to use our online image converter
 
     ![](../media/convert_img_3.png)
 
-- Select the format you wish to convert to and click the `Convert ` button
+- Select the format you wish to convert to 
     
     I will convert
 
     - `butterfly.png` to ico
     - `fish.png` to jpeg
-    - `landscape.webp` to jpeg
+    - `landscape.webp` to png
     - `snow_mountain.jpg` to webp
 
     ![](../media/convert_img_4.png)
 
-- Download your converted images 
+- and click the respective `Convert` buttons to convert the images to desired formats
+
+    ![](../media/convert_img_5.png)
+
+- You can download the converted images individually, or click the `Download All` in the top-right corner to download all the images in a zip file
+
+    ![](../media/convert_img_6.png)
 
