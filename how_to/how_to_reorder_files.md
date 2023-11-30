@@ -30,3 +30,33 @@ Our PDF reorder tool is simple, free, and accessible to both mobile and desktop 
 
 Below is a step-by-step pictorial guide on how to use our online PDF reorder tool:
 
+- Visit [theFileTools](https://www.thefiletools.com/)
+
+    ![](../media/home.png)
+
+- Click on the `PDF` button and select `Reorder Pages` from the dropdown menu
+
+    ![](../media/reorder_pdf_1.png)
+
+- Click on the `Select File` button in the new page that comes up
+
+    ![](../media/reorder_pdf_2.png)
+
+- Select the PDF file you want to reorder
+
+    ![](../media/reorder_pdf_3.png)
+
+- Drag and drop the pages in the order you want them to be reordered 
+
+    ![](../media/reorder_pdf_4.png)
+
+- Click the `Redorder File` button in the top-right corner to reorder the file 
+
+    ![](../media/reorder_pdf_5.png)
+
+- Download your reordered file
+
+    ![](../media/reorder_pdf_6.png)
+
+
+
