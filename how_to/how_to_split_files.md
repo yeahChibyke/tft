@@ -46,7 +46,7 @@ Below is a step-by-step pictorial guide on how to use our online PDF splitter:
 
     ![](../media/split_pdf_5.png)
 
-- Download the already split PDF file
+- Download the split PDF file
 
     ![](../media/split_pdf_6.png)
 

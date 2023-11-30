@@ -24,3 +24,37 @@ Our PDF merging tool offers user-friendly simplicity, universal accessibility fr
 
 Below is a step-by-step pictorial guide on how to use our online PDF merging tool:
 
+- Visit [theFileTools](https://www.thefiletools.com/)
+
+    ![](../media/home.png)
+
+- Click on the `PDF` button and select `Merge PDF` from the dropdown menu
+
+    ![](../media/merge_pdf_1.png)
+
+- Click on the `Select Files` button in the new page that comes up
+
+    ![](../media/merge_pdf_2.png)
+
+- Select the PDF files you wish to merge
+
+    ![](../media/merge_pdf_3.png)
+
+- You can select the order you want the PDF files to be merged in
+
+    ![](../media/merge_pdf_4.png)
+
+- And you can also add more file(s)
+
+    ![](../media/merge_pdf_5.png)
+
+    ![](../media/merge_pdf_6.png)
+
+- Click the `Merge` button in the top right corner to merge the PDF files
+
+    ![](../media/compress_7.png)
+
+- Download the merged PDF
+
+    ![](../media/merge_pdf_8.png)
+
