@@ -23,7 +23,7 @@ You can also use our online image compressor to reduce the size of these images 
 
 Below is a step-by-step pictorial guide on how to use our online image compressor:
 
-- Go to [theFileTools](https://www.thefiletools.com/)
+- Visit [theFileTools](https://www.thefiletools.com/)
 
     ![](../media/home.png)
 

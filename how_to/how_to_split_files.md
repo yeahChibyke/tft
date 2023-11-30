@@ -21,3 +21,32 @@ Our feature-rich PDF splitter is designed to be easy to use, flexible, and strai
 ***
 
 Below is a step-by-step pictorial guide on how to use our online PDF splitter:
+
+- Visit [theFileTools](https://www.thefiletools.com/)
+
+    ![](../media/home.png)
+
+- Click on the `PDF` button and select `Split PDF` from the dropdown menu
+
+    ![](../media/split_pdf_1.png)
+
+- Click on the `Select File` button in the new page that comes up
+
+    ![](../media/split_pdf_2.png)
+
+- Select the PDF file you wish to split
+
+    ![](../media/split_pdf_3.png)
+
+- Mark and select the desired pages
+
+    ![](../media/split_pdf_4.png)
+
+- Click the `Split File` button on the top-right corner
+
+    ![](../media/split_pdf_5.png)
+
+- Download the already split PDF file
+
+    ![](../media/split_pdf_6.png)
+
